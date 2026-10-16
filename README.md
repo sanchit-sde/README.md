@@ -1,3 +1,7 @@
 Name: Sanchit
+
+
 Nowdays digital security is shifting heavily towards AI -powered threat detection. I want to learn how to develop machine learning models to identify fraud and scam patterns. To participate in different events in gravitas organized by whitehats clubs. Get to know different problems faced in this branch, how students interpret them. For career advancement and resumes. also to connect junior members directly with experienced seniors who are already securing internships or working on complex open-source projects.
+
+
 A student hacked the official websites of IIT Kanpur and IIT Madras after his application to their newly launched undergraduate cybersecurity programme was rejected.Basically, he spent years studying cybersecurity, but his school marks weren't great. Because of that, IIT Kanpur and IIT Madras rejected his application for their new cybersecurity course. He didn't even get a chance to take the entrance exam. To prove he actually had the skills, he hacked both their websites! He didn't steal any data; he just left a message on the homepage that said, "Site is hacked, all I need is just a fair chance." Then, he posted the screenshots on Reddit and X. Instead of calling the police, the Director of IIT Kanpur did something amazing. He decided not to file a criminal case. Instead, he invited the student to the campus to test his skills. If the kid proves he is genuinely talented, IIT is going to give him an internship at their cybersecurity hub and teach him how to use his skills legally!
